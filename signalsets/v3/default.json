@@ -1,4 +1,7 @@
 { "commands": [
-
+{ "hdr": "D016", "rax": "1EC6EE80", "pri": "1D", "tst": "37", "fcm1": true, "cmd": {"22": "DD01"}, "freq": 30, "dbgfilter": { "to": 2025, "from": 2027 },
+  "signals": [
+    {"id": "POLESTAR4_TOT_DIST", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Total distance"}
+  ]}
 ]
 }

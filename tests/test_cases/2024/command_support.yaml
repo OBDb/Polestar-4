@@ -1,0 +1,6 @@
+model_year: 2024
+unsupported_commands_by_ecu:
+  "D016":
+  - D016.22EE6F
+  "D01A":
+  - D01A.224028
